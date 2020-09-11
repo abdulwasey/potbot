@@ -74,10 +74,10 @@ WSGI_APPLICATION = 'slack_bot.wsgi.application'
 # SLACK API Configurations
 # ----------------------------------------------
 # use your keys
-SLACK_CLIENT_ID = '1352430565061.1355818845090'
-SLACK_CLIENT_SECRET = '0eed87aaef4432414358cee0e60c2756'
-SLACK_VERIFICATION_TOKEN = '1YrrpVVPlvaKh48Dw9dQP2QZ'
-SLACK_BOT_USER_TOKEN = 'xoxb-1352430565061-1341089378263-bH3Rmdgbb2nRvp9xrpvbNXSF'
+SLACK_CLIENT_ID = ''
+SLACK_CLIENT_SECRET = ''
+SLACK_VERIFICATION_TOKEN = ''
+SLACK_BOT_USER_TOKEN = ''
 
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
